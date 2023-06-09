@@ -16,10 +16,13 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
+Desktop View:
 ![Desktop Preview](images/3-column-layout.png)
-![Mobile Preview](images/mobile-view.png)
+
+Mobile View:
+<img src="images/mobile-view.png" alt="mobile view" width="300"/>
 
 
 ### Links

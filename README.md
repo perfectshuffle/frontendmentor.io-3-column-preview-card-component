@@ -18,7 +18,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Screenshot
 
-![QR Code Preview](images/qr-code.png)
+![Desktop Preview](images/3-column-layout.png)
+![Mobile Preview](images/mobile-view.png)
 
 
 ### Links
